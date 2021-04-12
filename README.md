@@ -1,6 +1,6 @@
 
 
-### Hi there, My name is Edward Yu (游庭瑋) 👋
+### Hi, My name is Edward Yu (游庭瑋) 👋
 
 ---
 
