@@ -14,7 +14,7 @@
 
 #### 🌱 I’m currently learning ...
 
-<img src="c-128x128.png"><img src="docker-128x128.png"><img src="go-128x128.png"><img src="python-128x128.png"><img src="rust-128x128.png">
+<img src="c-128x128.png" width="40" heigth="40"><img src="docker-128x128.png" width="40" heigth="40"><img src="go-128x128.png" width="40" heigth="40"><img src="python-128x128.png" width="40" heigth="40"><img src="rust-128x128.png" width="40" heigth="40">
 
 #### 💬 Ask me about ...
 
@@ -33,8 +33,10 @@
 brainfuck hello world：
 
 ```
-++++++++++[>+++++++>++++++++++>+++>+<<<<-]
->++.>+.+++++++..+++.>++.<<+++++++++++++++.
+++++++++++
+[>+++++++>++++++++++>+++>+<<<<-]
+>++.>+.+++++++..+++.>++.
+<<+++++++++++++++.
 >.+++.------.--------.>+.>.
 ```
 
