@@ -42,6 +42,9 @@ brainfuck hello world：
 >.+++.------.--------.>+.>.
 ```
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wei-coding&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wei-coding&theme=github)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wei-coding&theme=github)
+
 <!--
 **wei-coding/wei-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
