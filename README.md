@@ -15,13 +15,7 @@
 
 #### 💬 Ask me about ...
 
-> 什麼都可以聊～
-
-#### 📫 How to reach me: ...
-
-+ Email： [✉](mailto:edward.yu0830@gmail.com)
-+ Facebook：游庭瑋
-+ more on...
+> 什麼都可以聊~
 
 #### ⚡ Fun fact: ...
 
