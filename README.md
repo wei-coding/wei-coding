@@ -2,10 +2,6 @@
 
 ### Hello, 
 
-### My name is Edward Yu (游庭瑋) 👋
-
----
-
 #### 🔭 I’m currently working on ...
 
 + 自己架一個區塊鏈💰💰
